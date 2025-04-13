@@ -2,6 +2,7 @@ package org.example;
 
 import java.util.Objects;
 
+@SuppressWarnings("unused")
 public class Person {
 
     private String name;
